@@ -1,0 +1,14 @@
+.shopmain{
+    
+    display: flex;
+}
+
+.product-container{
+    background-color: aquamarine;
+    width: 70%;
+    padding-left: 80px;
+}
+.shop-container{
+    background-color: rgb(255, 189, 127);
+    width: 30%;
+}
